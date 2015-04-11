@@ -8,7 +8,7 @@
 :Authors: Quentin ANDRE, quentin.andre@insead.edu
 :Web site: https://github.com/QuentinAndre/Guadagni-Little-1983-Python
 :Copyright: This document has been placed in the public domain.
-: License: Guadagni-Little-1983-Python is released under the MIT license.
+:License: Guadagni-Little-1983-Python is released under the MIT license.
 
 Purpose
 =======
