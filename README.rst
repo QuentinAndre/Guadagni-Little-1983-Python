@@ -41,7 +41,8 @@ Download
 * Using git:
  * git clone https://github.com/QuentinAndre/Guadagni-Little-1983-Python.git
 
-* Download the master branch as a zip: https://github.com/QuentinAndre/Guadagni-Little-1983-Python/archive/master.zip
+* Download the master branch as a zip: 
+ * https://github.com/QuentinAndre/Guadagni-Little-1983-Python/archive/master.zip
 
 
 References
