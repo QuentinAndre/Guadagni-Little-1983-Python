@@ -2,20 +2,23 @@
 ==============
  Introduction
 ==============
-: Date: March 15, 2015
-: Version: 1.0.0
-: Authors: Quentin ANDRE, quentin.andre@insead.edu
-: Web site: https://github.com/QuentinAndre/Guadagni-Little-1983-Python
-: Copyright: This document has been placed in the public domain.
+
+:Date: March 15, 2015
+:Version: 1.0.0
+:Authors: Quentin ANDRE, quentin.andre@insead.edu
+:Web site: https://github.com/QuentinAndre/Guadagni-Little-1983-Python
+:Copyright: This document has been placed in the public domain.
 : License: Guadagni-Little-1983-Python is released under the MIT license.
 
 Purpose
 =======
+
 Guadagni-Little-1983-Python provides a Python implementation of the mixed/conditional logit model of product choice
 outlined by Guadagni and Little in their 1983 article "A Logit Model of Brand Choice Calibrated on Scanner Data".
 
 Content
 =======
+
 1. **Dataset Recreation.py**: A script to create from scratch a purchase history dataset of N consumers over T time periods for K options. All the parameters in the script can be changed to generate a different dataset. As in the original paper, the consumers are heterogenous in their loyalty to the brand and to the different sizes offered. The script outputs four files:
  * *GuadagniLittle1983.csv*, which contains the simulated scanner data
  * *TrueBetas.csv*, which contains the true parameters used to generate the data.
