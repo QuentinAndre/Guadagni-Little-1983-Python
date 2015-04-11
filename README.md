@@ -16,10 +16,10 @@ outlined by Guadagni and Little in their 1983 article "A Logit Model of Brand Ch
 Content
 =======
 1. **Dataset Recreation.py**: A script to create from scratch a purchase history dataset of N consumers over T time periods for K options. All the parameters in the script can be changed to generate a different dataset. As in the original paper, the consumers are heterogenous in their loyalty to the brand and to the different sizes offered. The script outputs four files:
-* *GuadagniLittle1983.csv*, which contains the simulated scanner data
-* *TrueBetas.csv*, which contains the true parameters used to generate the data.
-* *BrandShares.png*, which plots the evolution of market shares for the brands over time.
-* *SizeShares.png*, which plots the evolution of market shares for the sizes over time.
+ * *GuadagniLittle1983.csv*, which contains the simulated scanner data
+ * *TrueBetas.csv*, which contains the true parameters used to generate the data.
+ * *BrandShares.png*, which plots the evolution of market shares for the brands over time.
+ * *SizeShares.png*, which plots the evolution of market shares for the sizes over time.
 
 2. **Mixed Logit Estimation.py**: A script to recover the parameters used to generate the data. As in the original paper, the  the utility of the first option is constrained to be 1 to allow identification of the (K-1) brand intercepts and of the J utility components for the attributes (which are common to all brands).
 
