@@ -33,7 +33,7 @@ Installation
 Dependencies
 ------------
 This code has been tested in Python 3.4, using the Anaconda distribution:
-* `The Anaconda distribution for Python 3.4 <http://continuum.io/downloads#py34>`_
+ * `The Anaconda distribution for Python 3.4 <http://continuum.io/downloads#py34>`_
 
 Download
 --------
