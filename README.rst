@@ -29,7 +29,7 @@ Content
 
 3. **Recreation and Estimation.ipynb**: An IPython notebook combining the two aforementioned files, and describing in details the different steps of the data creation and data estimation process
 
-4. **Recreation and Estimation.ipynb**: An HTML export of the aforementioned notebook.
+4. **Recreation and Estimation.html**: An HTML export of the aforementioned notebook.
 
 Installation
 ============
