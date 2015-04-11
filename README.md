@@ -1,12 +1,12 @@
 ==============
  Introduction
 ==============
-:Date: March 15, 2015
-:Version: 1.0.0
-:Authors: Quentin ANDRE, quentin.andre@insead.edu
-:Web site: https://github.com/QuentinAndre/Guadagni-Little-1983-Python
-:Copyright: This document has been placed in the public domain.
-:License: Guadagni-Little-1983-Python is released under the MIT license.
+: Date: March 15, 2015
+: Version: 1.0.0
+: Authors: Quentin ANDRE, quentin.andre@insead.edu
+: Web site: https://github.com/QuentinAndre/Guadagni-Little-1983-Python
+: Copyright: This document has been placed in the public domain.
+: License: Guadagni-Little-1983-Python is released under the MIT license.
 
 Purpose
 =======
@@ -38,8 +38,7 @@ Download
 
   git clone https://github.com/QuentinAndre/Guadagni-Little-1983-Python.git
 
-* Download the master branch as a `zip archive
-  <https://github.com/QuentinAndre/Guadagni-Little-1983-Python/archive/master.zip>`_
+* Download the master branch as a zip: https://github.com/QuentinAndre/Guadagni-Little-1983-Python/archive/master.zip
 
 
 References
