@@ -14,7 +14,7 @@ Purpose
 =======
 
 Guadagni-Little-1983-Python provides a Python implementation of the mixed/conditional logit model of product choice
-outlined by Guadagni and Little in their 1983 article "A Logit Model of Brand Choice Calibrated on Scanner Data".
+outlined by Guadagni and Little in their 1983 article *"A Logit Model of Brand Choice Calibrated on Scanner Data"*.
 
 Content
 =======
