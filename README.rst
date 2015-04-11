@@ -27,6 +27,9 @@ Content
 
 2. **Mixed Logit Estimation.py**: A script to recover the parameters used to generate the data. As in the original paper, the  the utility of the first option is constrained to be 1 to allow identification of the (K-1) brand intercepts and of the J utility components for the attributes (which are common to all brands).
 
+3. **Recreation and Estimation.ipynb**: An IPython notebook combining the two aforementioned files, and describing in details the different steps of the data creation and data estimation process
+
+4. **Recreation and Estimation.ipynb**: An HTML export of the aforementioned notebook.
 Installation
 ============
 
