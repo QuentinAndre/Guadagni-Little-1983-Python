@@ -1,6 +1,3 @@
-
-.. highlight:: sh
-
 ==============
  Introduction
 ==============
