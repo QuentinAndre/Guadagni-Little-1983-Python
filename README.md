@@ -34,12 +34,12 @@ This code has been tested in Python 3.4, using the Anaconda distribution:
 Download
 --------
 
-* Using git::
+* Using git:
 
-   git clone https://github.com/QuentinAndre/Guadagni-Little-1983-Python.git
+  git clone https://github.com/QuentinAndre/Guadagni-Little-1983-Python.git
 
 * Download the master branch as a `zip archive
-    <https://github.com/QuentinAndre/Guadagni-Little-1983-Python/archive/master.zip>`_
+  <https://github.com/QuentinAndre/Guadagni-Little-1983-Python/archive/master.zip>`_
 
 
 References
